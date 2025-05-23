@@ -1,4 +1,4 @@
-91.187.93.166,443,AD,Andorra Telecom, S.a.u.
+91.187.93.166,443,AD,Andorra Telecom
 194.58.33.42,443,AE,International Hosting Company
 212.192.215.163,443,AE,Baxet Group Inc.
 185.106.120.66,443,AE,Host Sailor
@@ -426,7 +426,7 @@
 94.101.188.101,30453,IR,Noyan Abr Arvan Co. ( Private Joint Stock)
 89.235.118.83,21695,IR,Webdade
 89.235.118.88,57474,IR,Webdade
-80.249.112.162,443,IR,Parsian Technology Innovative Solution Co., PJS.
+80.249.112.162,443,IR,Parsian Technology Innovative Solution Co.
 185.84.162.186,8443,IR,TimeWeb
 185.84.162.186,2053,IR,TimeWeb
 185.10.68.27,443,IS,FlokiNET ehf
@@ -569,7 +569,7 @@
 41.76.42.118,443,MU,Mauritius Telecom
 41.76.42.116,443,MU,Mauritius Telecom
 140.84.178.238,23010,MX,Oracle Cloud
-201.149.15.14,21585,MX,Megacable Comunicaciones de Mexico, S.A. de C.V.
+201.149.15.14,21585,MX,Megacable Comunicaciones de Mexico
 148.223.138.11,443,MX,Telmex
 38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
 45.159.51.121,32199,MY,Kaopu Cloud Hk Limited
@@ -740,7 +740,7 @@
 52.74.101.26,443,SG,Amazon.com
 91.192.81.154,8443,SG,Melbikomas UAB
 91.192.81.154,2053,SG,Melbikomas UAB
-97.74.82.87,45837,SG,GoDaddy.com, LLC
+97.74.82.87,45837,SG,GoDaddy.com
 91.185.215.27,443,SI,Telemach Slovenija d.o.o.
 5.180.55.184,2053,SK,Pq Hosting Plus
 5.180.55.220,8443,SK,Pq Hosting Plus
